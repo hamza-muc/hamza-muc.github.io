@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hamza Mallick"
 date:   2026-03-31 05:02:11 +0200
 categories: jekyll update
 ---
